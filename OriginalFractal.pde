@@ -1,5 +1,5 @@
 public void setup(){
-  size(1000,1000);
+  size(1000,850);
 background(255); 
 }
 public void draw(){
